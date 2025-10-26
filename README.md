@@ -1,4 +1,4 @@
-# Campus Buddy – Complaint and Feedback Management System
+# Campus Buddy – Complaint Management System
 
 **Campus Buddy** is a comprehensive web-based platform designed to streamline complaint management and feedback collection in college environments. The system ensures that student grievances, infrastructure issues, and administrative concerns are submitted, tracked, and resolved efficiently. By providing both student-facing and admin-facing interfaces, Campus Buddy improves transparency, accountability, and communication within the campus community.
 
@@ -130,7 +130,10 @@ streamlit run frontend/admin_app.py
 ## Screenshot of main pages
 
 1. Admin main page
+<img width="1898" height="780" alt="Image" src="https://github.com/user-attachments/assets/aca26755-d136-4871-b05c-858eaebd2477" />
+
 2. Student main page
+<img width="1901" height="782" alt="Image" src="https://github.com/user-attachments/assets/1a68fb31-2113-48f8-8781-69bc5454697d" />
 
 
 
