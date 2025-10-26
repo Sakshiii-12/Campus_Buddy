@@ -1,4 +1,4 @@
-# Campus Buddy – Complaint Management System
+# Campus Buddy - Complaint Management System
 
 **Campus Buddy** is a comprehensive web-based platform designed to streamline complaint management and feedback collection in college environments. The system ensures that student grievances, infrastructure issues, and administrative concerns are submitted, tracked, and resolved efficiently. By providing both student-facing and admin-facing interfaces, Campus Buddy improves transparency, accountability, and communication within the campus community.
 
