@@ -66,7 +66,7 @@ It performs:
 * **Priority Detection** – Flags critical complaints instantly.
 * **Sentiment Analysis** – Measures tone (positive, neutral, or negative).
 * **Keyword Extraction** – Pulls important terms for context.
-* **Category Suggestion** – Suggests the best-fit complaint category.
+* **Category Suggestions** – Suggests the best-fit complaint category.
 
 This allows admins to act faster and understand campus-wide issues at a glance.
 
